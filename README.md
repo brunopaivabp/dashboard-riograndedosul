@@ -25,3 +25,14 @@ No exemplo abaixo, o usuário, ao clicar na barra verde correspondente ao suprim
 
 É possível perceber também que, em ambos os exemplos acima, o gráfico de Mapa automaticamente se reajusta para somente mostrar os círculos correspondentes aos abrigos que possuem a condição especificada.
 
+## Painel Abrigos
+
+Suponha que se queira ter informações sobre abrigos com centenas ou milhares de pessoas abrigadas atualmente. Tais informações podem ser úteis para a realocação de uma grande quantidade de pessoas.
+
+A ideia também é que tal dashboard possa ajudar pessoas ou famílias a procurar abrigos com grande capacidade e pouca ocupação para poderem se abrigar. Dessa forma, pode ocorrer uma diluição maior de pessoas entre os abrigos em vez de concentrar muitas pessoas em um só e assim evitar superlotações. 
+
+O gráfico de barras horizontais apresenta os abrigos com mais pessoas segundo as informações disponíveis na base de dados atualmente.
+
+![painel-abrigos](https://github.com/brunopaivabp/dashboard-riograndedosul/assets/10210318/907ef16c-74dd-4700-9174-e637336e5e5f)
+
+
